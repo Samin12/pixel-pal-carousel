@@ -1,0 +1,17 @@
+Instagram / LinkedIn carousel slide, portrait 3:4, flat editorial graphic-design layout — INTERIOR slide.
+
+STYLE BLOCK (keep identical across the deck):
+Design system: clean modern educational carousel. Signature orange #FF5C1F is the single hero accent. Cute chunky 8-bit PIXEL-ART blob mascot — solid orange #FF5C1F body, darker-orange pixel shading on lower-left edges, two square black pixel eyes, stubby pixel arms/feet, no mouth, crisp hard pixel edges, no gradients on the character, retro game-sprite look. Same mascot identity on every slide.
+
+Background: pure white #FFFFFF.
+Top-left section chip: pale-peach #FFF3E9 rounded pill with orange #FF5C1F "03" then dark-gray "EXPLAIN" — spelled exactly, verbatim.
+Headline in HEAVY BOLD SANS, ink black #111111, top-left: "Give one useful answer." with the word "useful" in orange #FF5C1F — spelled exactly, verbatim.
+Body, warm gray #5A5A5A, medium weight: "Explain the problem, show one example, and give one next step." — spelled exactly, verbatim.
+Illustration anchored lower-center/side: the orange pixel blob mascot arranging three clean cream pixel note cards on a desk, each separate and legible with labels: Problem, Example, Next step; mascot is standing to the right of the cards as a helpful teacher.
+All diagram labels, spelled exactly, verbatim: "Problem", "Example", "Next step".
+Bottom pale-peach #FFF3E9 rounded tip-box, full width, small orange 8-point spark icon at left, text "Teach one thing people can use today." — spelled exactly, verbatim.
+Small gray ">" chevron nav dot centered on the right edge.
+
+Small but clearly legible brand credit on the bottom margin: "Samin's Content Systems" — spelled exactly, verbatim. Keep that exact brand name on one line. No other brand names.
+Layout: 8% safe side margins; comfortable top and bottom margins. Headline in the upper third; body below; illustration below the body; tip-box near bottom above the brand. Large type, readable at phone size. Preserve generous white space. Diagram labels should remain large and high contrast. No overlaps or crowded elements.
+Typography crisp and legible, high contrast, no watermark, no gibberish text, no extra UI, professional graphic design.

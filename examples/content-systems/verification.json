@@ -1,0 +1,44 @@
+{
+  "checkedAt": "2026-09-11T05:15:08.465562+00:00",
+  "repository": "https://github.com/Samin12/pixel-pal-carousel",
+  "baseCommit": "2c53e9ef47fb90f76caeeb0eaace7f04f2cb3ed4",
+  "branch": "codex/content-systems-example",
+  "slideCount": 7,
+  "dimensions": [
+    1744,
+    2336
+  ],
+  "visualInspection": {
+    "allSevenViewedIndividually": true,
+    "contactSheetViewed": true,
+    "headlinesSpelledCorrectly": true,
+    "brandCorrectOnAllSlides": true,
+    "sectionChipsSequential": true,
+    "noCroppedText": true,
+    "tipBoxesPresent": true,
+    "pixelMascotPresentThroughout": true,
+    "intendedHeadlineEmphasis": true,
+    "noCustomerResultClaims": true,
+    "noIntegrationSuccessClaims": true,
+    "note": "The model introduces small prop-color and mascot-shape variations. The shared editorial layout, orange hero accent, and pixel mascot treatment remain consistent."
+  },
+  "independentQA": "Integration QA task visually reviewed all seven slides and confirmed seven original dimensions and ZIP integrity.",
+  "pdf": {
+    "pages": 7,
+    "finalPageRenderedAndViewed": true,
+    "bookingAnnotationVerified": true,
+    "bookingUrl": "https://calendly.com/samin-dde/lets-see-what-ai-can-do-for-you"
+  },
+  "editability": "JSON copy, art direction, prompt files and local copy editor. PNGs and PDF pages are flattened raster artwork.",
+  "publication": "Not socially published. No main-branch modifications.",
+  "browser": {
+    "engine": "Chrome via Playwright",
+    "slidesLoaded": 7,
+    "editedProjectDownloadVerified": true,
+    "editedPromptsDownloadVerified": true,
+    "mobileWidth": 390,
+    "horizontalOverflow": false,
+    "javascriptErrors": 0,
+    "bookingHrefVerified": true
+  }
+}
